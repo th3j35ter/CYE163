@@ -3,7 +3,6 @@ This is a writeup for the overthewire Bandit wargames.
 
 
 # Table of Contents
-- [Top of Page](#Table-of-Contents)
 - [Bandit](#bandit)
 - [Bandit 0](#bandit-0)
 - [Bandit 1](#bandit-1)
