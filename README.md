@@ -1,10 +1,17 @@
-# CYE163
-
-# This is a writeup for the overthewire Bandit wargames. 
-
-##### Table of Contents
-[Headers](#headers)
-
+- [CYE163](#cye163)
+- [This is a writeup for the overthewire Bandit wargames.](#this-is-a-writeup-for-the-overthewire-bandit-wargames)
+- [Bandit](#bandit)
+- [Bandit 0](#bandit-0)
+- [Bandit 1](#bandit-1)
+- [Bandit 2](#bandit-2)
+- [Bandit 3](#bandit-3)
+- [Bandit 4](#bandit-4)
+- [Bandit 5](#bandit-5)
+- [Bandit 6](#bandit-6)
+- [Bandit 7](#bandit-7)
+- [Bandit 8](#bandit-8)
+- [Bandit 9](#bandit-9)
+- [Bandit 10](#bandit-10)
 
 # Bandit
 This level required me to use ssh to gain access to the information needed for level 1. I read through the SSH link provided by overthewire ![Screenshot 2024-02-10 180553](https://github.com/th3j35ter/CYE163/assets/57239953/14f5a8fc-980a-4a10-8ee9-5a1acde6d5d7)
