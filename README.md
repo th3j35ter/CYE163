@@ -35,7 +35,7 @@ With this allowing me access I successfully completed the first level.
 
 ![Screenshot 2024-02-10 181245](https://github.com/th3j35ter/CYE163/assets/57239953/63333162-17b3-4a4d-a52d-518ebb5b1be4)
 
-[Back To Top](#Table-of-Contents)
+[Back To Top](#CYE-163)
 
 # Bandit 0
 
@@ -50,6 +50,8 @@ This identifies the file "readme" in my directory and I use another command prov
 ![Screenshot 2024-02-10 182714](https://github.com/th3j35ter/CYE163/assets/57239953/10347754-bd84-4860-b287-255e7e4986c9)
 
 ![Screenshot 2024-02-10 182832](https://github.com/th3j35ter/CYE163/assets/57239953/9de8567c-727a-4e73-abdf-75c9457fb563)
+
+[Back To Top](#CYE-163)
 
 # Bandit 1
 
@@ -79,6 +81,8 @@ Using the provided google search links by overthewire I was able to identify how
   rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 2
 In order to connect to Bandit2 I used the command:
   
@@ -101,6 +105,8 @@ I figured if its checking each word individually for a filename then I should wr
   aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 3
 After identifying the password I exited from the server and connected to Bandit3.
 
@@ -121,6 +127,8 @@ Using the 'cat' command it was simple to pull the password for the next level ou
 
 
 ![Screenshot 2024-02-12 085112](https://github.com/th3j35ter/CYE163/assets/57239953/73479f70-94f3-4ffd-b621-e38ac2bbb8d0)
+
+[Back To Top](#CYE-163)
 
 # Bandit 4
 
@@ -146,6 +154,8 @@ After identifying the human-readable file I was able to get the password and mov
   <summary>The password is:</summary>
   lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 </details>
+
+[Back To Top](#CYE-163)
 
 # Bandit 5
 
@@ -189,6 +199,8 @@ find . -type f -size 1033c ! -executable -exec file {} \;
   P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 6
 
 After exiting the server I logged into Bandit6.
@@ -221,6 +233,8 @@ After extracting the password from the indicated filepath, the level is complete
   z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 7
 
 After exiting Bandit6 I entered into Bandit7 successfully.
@@ -243,6 +257,8 @@ This results in the password being printed out alongside the pattern I searched 
   TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 8
 
 After exiting Bandit7 I entered in the retrieved password and logged into Bandit8.
@@ -261,6 +277,8 @@ sort data.txt | uniq -u
   </summary>
   EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 </details>
+
+[Back To Top](#CYE-163)
 
 # Bandit 9
 
@@ -285,6 +303,8 @@ The output was slightly offskew but contained the necessary information to ident
   G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 </details>
 
+[Back To Top](#CYE-163)
+
 # Bandit 10
 
 Using the password obtained from Bandit9 I was able to login to Bandit10.
@@ -302,3 +322,5 @@ Since the data in the file is encoded, the command base64 is needed to append th
   6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 </details>
 With the password obtained I am able to complete the level and move on to level 11 of the Bandit wargames.
+
+[Back To Top](#CYE-163)
