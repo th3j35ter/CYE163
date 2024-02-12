@@ -330,3 +330,7 @@ Since the data in the file is encoded, the command base64 is needed to append th
 With the password obtained I am able to complete the level and move on to level 11 of the Bandit wargames.
 
 [Back To Top](#CYE-163)
+
+# Final Thoughts
+
+Over the course of these 10 levels I feel like I have learned a lot. This required me to get familiar with command line options I could use to complete each level. I feel like it was overall difficult for me since I had little to no experience with using linux or the command line extensively. Thankfully, due to having completed the first 10 levels I am more comfortable now with using a different operating system and the command terminal. The levels were each engaging and I had fun making my way through them approaching each one slightly differently than before. 
