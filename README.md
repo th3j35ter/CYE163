@@ -15,6 +15,7 @@ This is a writeup for the overthewire Bandit wargames.
 - [Bandit 8](#bandit-8)
 - [Bandit 9](#bandit-9)
 - [Bandit 10](#bandit-10)
+- [Final Thoughts](#final-thoughts)
 
 # Bandit
 This level required me to use ssh to gain access to the information needed for level 1. I read through the SSH link provided by overthewire ![Screenshot 2024-02-10 180553](https://github.com/th3j35ter/CYE163/assets/57239953/14f5a8fc-980a-4a10-8ee9-5a1acde6d5d7)
