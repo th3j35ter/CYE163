@@ -34,7 +34,7 @@ With this allowing me access I successfully completed the first level.
 
 ![Screenshot 2024-02-10 181245](https://github.com/th3j35ter/CYE163/assets/57239953/63333162-17b3-4a4d-a52d-518ebb5b1be4)
 
-[Back-To-The-Top](#Table-of-Content)
+[Back To Top](#Table-of-Content)
 
 # Bandit 0
 
