@@ -51,6 +51,11 @@ This identifies the file "readme" in my directory and I use another command prov
 
 ![Screenshot 2024-02-10 182832](https://github.com/th3j35ter/CYE163/assets/57239953/9de8567c-727a-4e73-abdf-75c9457fb563)
 
+<details>
+  <summary>The password is:</summary>
+  NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+</details>
+
 [Back To Top](#CYE-163)
 
 # Bandit 1
