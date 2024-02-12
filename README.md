@@ -1,5 +1,7 @@
-- [CYE163](#cye163)
-- [This is a writeup for the overthewire Bandit wargames.](#this-is-a-writeup-for-the-overthewire-bandit-wargames)
+# CYE-163
+This is a writeup for the overthewire Bandit wargames.
+
+- [Table of Content](#Table-of-Content)
 - [Bandit](#bandit)
 - [Bandit 0](#bandit-0)
 - [Bandit 1](#bandit-1)
