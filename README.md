@@ -18,7 +18,11 @@ This is a writeup for the overthewire Bandit wargames.
 - [Final Thoughts](#final-thoughts)
 
 # Bandit
-This level required me to use ssh to gain access to the information needed for level 1. I read through the SSH link provided by overthewire ![Screenshot 2024-02-10 180553](https://github.com/th3j35ter/CYE163/assets/57239953/14f5a8fc-980a-4a10-8ee9-5a1acde6d5d7)
+Since this level is the starting level for this wargame it felt almost too easy but it still required some research since I didn't have that much experience with it. The links provided by overthewire were very helpful when searching through them and finding the appropriate option to attach to the command.
+
+This level required ssh to gain access to the information needed for level 1. I read through the SSH link provided by overthewire and identified the command necessary.
+
+![Screenshot 2024-02-10 180553](https://github.com/th3j35ter/CYE163/assets/57239953/14f5a8fc-980a-4a10-8ee9-5a1acde6d5d7)
 
 The instructions required a specific port connection and when i first tried this by using this line:
 
@@ -32,13 +36,15 @@ ssh bandit.labs.overthewire.org -p 2220 -l bandit0
 
 ![Screenshot 2024-02-10 181138](https://github.com/th3j35ter/CYE163/assets/57239953/95cbe079-31c1-449e-ae4b-f884175a5f12)
 
-With this allowing me access I successfully completed the first level.
+With this allowing me access I successfully accessed the first level.
 
 ![Screenshot 2024-02-10 181245](https://github.com/th3j35ter/CYE163/assets/57239953/63333162-17b3-4a4d-a52d-518ebb5b1be4)
 
 [Back To Top](#CYE-163)
 
 # Bandit 0
+
+This felt easy to complete at first, and when I read through the link for the ls, and cat commands it felt rather simple and straightforward. Both links were provided by overthewire so the resources/hints were made abundantly clear to me when working on this level.
 
 The goal for this level is to access the password stored in a file named "readme" which is located in the home directory. 
 
