@@ -1,7 +1,9 @@
 # CYE-163
 This is a writeup for the overthewire Bandit wargames.
 
-- [Table of Content](#Table-of-Content)
+
+# Table of Contents
+- [Top of Page](#Table-of-Contents)
 - [Bandit](#bandit)
 - [Bandit 0](#bandit-0)
 - [Bandit 1](#bandit-1)
